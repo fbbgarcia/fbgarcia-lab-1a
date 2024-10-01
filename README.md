@@ -2,7 +2,7 @@
 This program searches a students.txt file by user command and outputs the results of the search.
 
 
-Featured Commands:
+#Featured Commands:
 [] indicate optional input & <> indicate required input
 - S[tudent]: <lastname>
   - returns the name, grade, classroom, and teacher of each student found with the given last name
@@ -24,5 +24,5 @@ Featured Commands:
   - quit the current session of the program
 
 
-Instructions:
+#Instructions:
 Run the schoolsearch.py script. Make sure to have a students.txt file in the same directory. Enter one of the above commands after the prompt. That's it!
