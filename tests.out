@@ -1,0 +1,115 @@
+/Users/franchescagarcia/PycharmProjects/csc365lab1a/venv/bin/python /Users/franchescagarcia/PycharmProjects/csc365lab1a/schoolsearch.py
+Enter command: S: WORBINGTON
+WORBINGTON,DEEDRA,4,112,CHIONCHIO,PERLA
+Enter command: S: DORY
+Enter command: Student: WORBINGTON
+WORBINGTON,DEEDRA,4,112,CHIONCHIO,PERLA
+Enter command: Student: DORY
+Enter command: S: WORBINGTON B
+WORBINGTON,DEEDRA,53
+Enter command: S: DORY B
+Enter command: Student: WORBINGTON B
+WORBINGTON,DEEDRA,53
+Enter command: Student: DORY B
+Enter command: S: WORBINGTON Bus
+WORBINGTON,DEEDRA,53
+Enter command: S: DORY Bus
+Enter command: Student: WORBINGTON Bus
+WORBINGTON,DEEDRA,53
+Enter command: Student: DORY Bus
+Enter command: T: FAFARD
+COOKUS,XUAN
+ELHADDAD,SHANTE
+SWEDLUND,SHARRI
+CIGANEK,MANIE
+COVINGTON,TOMAS
+EARLY,TORY
+LINHART,LELA
+Enter command: T: RAY
+Enter command: Teacher: FAFARD
+COOKUS,XUAN
+ELHADDAD,SHANTE
+SWEDLUND,SHARRI
+CIGANEK,MANIE
+COVINGTON,TOMAS
+EARLY,TORY
+LINHART,LELA
+Enter command: Teacher: RAY
+Enter command: G: 1
+SAELEE,DANILO
+GARTH,JOHN
+Enter command: G: 10
+Enter command: Grade: 1
+SAELEE,DANILO
+GARTH,JOHN
+Enter command: Grade: 10
+Enter command: B: 56
+RACANELLO,NOEL,6,102
+VILARDO,EMMANUEL,2,104
+KRAKE,VALENTIN,6,109
+BEAN,INGER,6,111
+BUSSMANN,BILLY,2,108
+FEYEREISEN,WILFREDO,6,111
+Enter command: B: 60
+Enter command: Bus: 56
+RACANELLO,NOEL,6,102
+VILARDO,EMMANUEL,2,104
+KRAKE,VALENTIN,6,109
+BEAN,INGER,6,111
+BUSSMANN,BILLY,2,108
+FEYEREISEN,WILFREDO,6,111
+Enter command: Bus: 60
+Enter command: G: 1 H
+GARTH,JOHN,3.14,FALKER,ADOLPH,0
+Enter command: G: 10 H
+Enter command: G: 1 High
+GARTH,JOHN,3.14,FALKER,ADOLPH,0
+Enter command: G: 10 High
+Enter command: Grade: 1 H
+GARTH,JOHN,3.14,FALKER,ADOLPH,0
+Enter command: Grade: 10 H
+Enter command: Grade: 1 High
+GARTH,JOHN,3.14,FALKER,ADOLPH,0
+Enter command: Grade: 10 High
+Enter command: G: 1 Low
+SAELEE,DANILO,2.85,FALKER,ADOLPH,54
+Enter command: G: 10 Low
+Enter command: Grade: 1 L
+SAELEE,DANILO,2.85,FALKER,ADOLPH,54
+Enter command: Grade: 10 L
+Enter command: Grade: 1 Low
+SAELEE,DANILO,2.85,FALKER,ADOLPH,54
+Enter command: Grade: 10 Low
+Enter command: A: 2
+2.95
+Enter command: A: 12
+Enter command: Average: 2
+2.95
+Enter command: Average: 12
+Enter command: I
+0: 0
+1: 2
+2: 13
+3: 9
+4: 15
+5: 0
+6: 21
+Enter command: Info
+0: 0
+1: 2
+2: 13
+3: 9
+4: 15
+5: 0
+6: 21
+Enter command: Q
+Quitting the program.
+
+Process finished with exit code 0
+Enter command: Quit
+Quitting the program.
+
+Process finished with exit code 0
+Enter command: Hi
+Unrecognized command. Please try again.
+Enter command:
