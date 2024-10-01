@@ -19,7 +19,7 @@ Featured Commands:
 - A[verage]: <number>
   - returns the average GPA of the given grade level (rounded to two decimal places)
 - I[nfo]
-  = returns the number of students in each grade level ranging from 0 to 6
+  - returns the number of students in each grade level ranging from 0 to 6
 - Q[uit]
   - quit the current session of the program
 
