@@ -4,7 +4,7 @@ This program searches a students.txt file by user command and outputs the result
 
 ## Featured Commands:
 [] indicate optional input & <> indicate required input
-- S[tudent]: <lastname>
+- S[tudent]: /<lastname/>
   - returns the name, grade, classroom, and teacher of each student found with the given last name
 - S[tudent]: <lastname> B[us]
   - prints the name and bus of each student found with the given last name
